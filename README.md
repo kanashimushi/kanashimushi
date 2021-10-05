@@ -10,16 +10,16 @@ Jexcel - это проект в среде Microsoft Excel для помощи �
 
 экспорт-импорт
 
-***FILE-LIST***
+**FILE** (worksheets):
 
-* Main.xls (листы: K-Lookup, W-Lookup) - основной рабочий файл
-* Config.xls (листы: Config) - настройки интервалов
-* DATA-Kanji.xls (листы: Kanji) - база данных иероглифов
-* DATA-Words.xls (листы: Words) - база данных слов
-* subDATA-Kanji-usage.xls (листы: K-Usage) - вспомогательный файл для базы данных иероглифов
-* subDATA-Kanji-grade.xls (листы: K-Grade) - вспомогательный файл для базы данных иероглифов
-* varLIST-Kanji.xls (листы: K-List) - персональный файл списков изучения иероглифов
-* varLIST-Words.xls (листы: W-List) - персональный файл списков изучения слов
+- **Main**.xls (K-Lookup, W-Lookup)
+- **Config**.xls (Config)
+- **DATA-Kanji**.xls (Kanji)
+- **DATA-Words**.xls (Words)
+- **subDATA-Kanji-usage**.xls (K-Usage)
+- **subDATA-Kanji-grade**.xls (K-Grade)
+- **varLIST-Kanji**.xls (K-List)
+- **varLIST-Words**.xls (W-List)
 
 
 [1] https://en.wikipedia.org/wiki/List_of_flashcard_software
